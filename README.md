@@ -1,17 +1,33 @@
-# Prime Video Analysis
+# Amazon Prime Video Insights Dashboard
 
-An interactive dashboard that provides enhanced insights on the Amazon prime video streaming platform using the Tableau prep and Tableau Desktop software
+This project features an interactive Tableau dashboard that provides enhanced insights into the Amazon Prime Video streaming platform. The dashboard is created using Tableau Prep and Tableau Desktop software.
+
+You can also find the dashboard @my tableau public account:
+[DashBoard](https://public.tableau.com/app/profile/jyothi.shri.sekar/viz/PrimeVideoAnalysis_17076450975630/Dashboard1)
 
 
-This repository contains a Tableau workbook that you can run to visualize data.
+## To run locally:
 
-##To get started:
+1. Tableau Desktop
 
-1. Prerequisites
 Install [Tableau Desktop](https://www.tableau.com/products/desktop/download).
 
-2. Clone the Repository
+2. Tableau Prep
+
+The data is preprocessed using Tableau Prep. If you haven't yet installed, you can download [Tableau Prep here](https://www.tableau.com/products/prep/download).
+
+3. Clone the Repository
 ```bash
 git clone https://github.com/jyothishri184/PrimeVideoAnalysis.git
-cd PrimeVideoAnalysis
 ```
+
+4. Open Tableau Desktop and navigate to `File > Open` and select the Tableau workbook file PrimeVideoAnalysis.twb
+
+5. Set up data - amazon_prime_titles.xlsx
+
+6. Explore the interactive dashboard to gain insights.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
