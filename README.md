@@ -25,7 +25,7 @@ git clone https://github.com/jyothishri184/PrimeVideoAnalysis.git
 
 5. Set up data - amazon_prime_titles.xlsx
 
-6. Explore the interactive dashboard to gain insights.
+6. Explore the interactive dashboard and various charts to gain insights.
 
 
 ## License
