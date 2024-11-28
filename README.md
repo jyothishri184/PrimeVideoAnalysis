@@ -1,6 +1,6 @@
 # Amazon Prime Video Insights Dashboard
 
-This project features an interactive Tableau dashboard that provides enhanced insights into the Amazon Prime Video streaming platform. The dashboard is created using Tableau Prep and Tableau Desktop software.
+This project features an interactive Tableau dashboard that provides enhanced insights into the Amazon Prime Video streaming platform. The dashboard is created using Tableau Prep and Tableau Desktop software. 
 
 You can also checkout the dashboard @ my tableau public account:
 [DashBoard](https://public.tableau.com/app/profile/jyothi.shri.sekar/viz/PrimeVideoAnalysis_17076450975630/Dashboard1)
